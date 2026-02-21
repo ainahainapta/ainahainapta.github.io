@@ -1,3 +1,219 @@
 {
-  "title": "Aina Haina PTA"
+  "organization": {
+    "name": "ʻĀina Haina Parent-Teacher Association",
+    "shortName": "ʻĀina Haina PTA",
+    "school": "ʻĀina Haina Elementary School",
+    "mission": "Dedicated to enhancing the educational experience for students through parent involvement, community building, and support for school programs.",
+    "meetingTime": "6:00 PM",
+    "meetingDay": "Monthly meetings (see schedule for specific dates)"
+  },
+  "contact": {
+    "email": "info@ainahainapta.com",
+    "website": "https://ainahainapta.com",
+    "address": "ʻĀina Haina Elementary School, 801 W Hind Iuka Dr, Honolulu, HI 96821",
+    "meetingLocation": "ʻĀina Haina Elementary School Library",
+    "zoomLink": "https://api.ainahainapta.com/meet"
+  },
+  "nav": {
+    "brandText": "ʻĀina Haina PTA",
+    "aboutLabel": "What We Do",
+    "eventsLabel": "Events",
+    "meetingsLabel": "Meetings",
+    "joinLabel": "Join Us",
+    "contactLabel": "Contact",
+    "donateLabel": "Donate",
+    "donatePath": "/pay"
+  },
+  "hero": {
+    "title": "Supporting Our Students",
+    "subtitle": "The ʻĀina Haina Parent-Teacher Association (PTA) is dedicated to enhancing the educational experience for every student. Your involvement and contributions make a significant difference.",
+    "buttons": {
+      "learnMore": {
+        "label": "Learn More",
+        "sectionId": "about"
+      },
+      "jaguarJog": {
+        "label": "Jaguar Jog",
+        "href": "https://jaguarjog.ainahainapta.com"
+      }
+    }
+  },
+  "whatWeDo": {
+    "title": "What We Do",
+    "subtitle": "Our PTA is dedicated to supporting our school community through various programs and initiatives that enhance our children's educational journey.",
+    "cards": [
+      {
+        "icon": "✏️",
+        "title": "Educational Programs",
+        "description": "We support enrichment programs, field trips, and educational resources that enhance classroom learning and provide new opportunities for growth."
+      },
+      {
+        "icon": "❤️",
+        "title": "Community Building",
+        "description": "Through events, fundraisers, and volunteer opportunities, we strengthen bonds between families, teachers, and students in our ʻohana."
+      },
+      {
+        "icon": "⭐",
+        "title": "Student Support",
+        "description": "We provide funding for technology, library resources, playground equipment, and other essentials that directly benefit our students' daily experience."
+      }
+    ]
+  },
+  "eventsSection": {
+    "nextEventBadgeLabel": "NEXT EVENT",
+    "allDayLabel": "All Day",
+    "viewAllUpcomingLabel": "View All Upcoming Events",
+    "learnMoreLabel": "Learn More"
+  },
+  "meetingsSection": {
+    "sectionTitle": "Meetings",
+    "nextMeetingTitle": "Join our next PTA Meeting",
+    "nextMeetingDescription": "Discuss upcoming events and initiatives with us. All parents are welcome!",
+    "noUpcomingDateLabel": "No upcoming meetings scheduled",
+    "noUpcomingTitle": "Stay tuned for our next meeting",
+    "noUpcomingDescription": "We'll announce our next meeting date soon. Check back for updates!",
+    "viewScheduleLabel": "View All Meeting Schedule",
+    "hideScheduleLabel": "Hide Meeting Schedule",
+    "allScheduledTitle": "All Scheduled Meetings",
+    "joinZoomLabel": "Join via Zoom",
+    "joinZoomHref": "https://api.ainahainapta.com/meet",
+    "meetingMinutesTitle": "Meeting Minutes",
+    "currentMinutesLabel": "View Current Minutes",
+    "currentMinutesHref": "https://docs.google.com/document/d/1SJrg19VcR2oibclDd6m38KeP5hdYgEHwrcjxztWJkdo/edit?usp=sharing",
+    "pastMinutesLabel": "Past Meeting Minutes",
+    "pastMinutesHref": "https://docs.google.com/document/d/1fyZTYm7w6wrVsAkFYtlAk0ySVzms-TLZnhn17ZkO-ow/edit?usp=sharing",
+    "financialReportsTitle": "Financial Reports",
+    "noReportsLabel": "No reports just yet!",
+    "financialPasswordLabel": "Password",
+    "financialSubmitLabel": "Submit"
+  },
+  "joinPta": {
+    "sectionTitle": "Join The PTA",
+    "imageSrc": "/assets/images/join.png",
+    "imageAlt": "Join PTA",
+    "title": "Become a Member",
+    "description": "Ready to make a difference in your children's education? By becoming a PTA member, you're supporting our school, a PTA network.",
+    "joinOnlineLabel": "Join Online",
+    "joinOnlineHref": "https://forms.gle/cLzkTppJ32tFxQS86",
+    "downloadFormLabel": "Download Form",
+    "downloadFormHref": "https://s3.us-east-1.amazonaws.com/media.ainahainapta.com/forms/AHESPTA_Membership_Form_25-26_qrcode.pdf"
+  },
+  "contactSection": {
+    "sectionTitle": "Contact Us",
+    "successMessage": "Thanks for filling out the form!  We'll get back to you if you requested anything!",
+    "errorMessage": "Whoops!  Something went wrong sending your email, try again!  Please make sure everything is filled out",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message"
+    },
+    "submitLabel": "Submit",
+    "sendingLabel": "Sending..."
+  },
+  "footer": {
+    "addressLabel": "Address",
+    "rightsSuffix": "All Rights Reserved"
+  },
+  "chatbot": {
+    "title": "Jerry the Jaguar",
+    "initialMessage": "Aloha! I'm Jerry the Jaguar. How can I help you today?",
+    "inputPlaceholder": "Type your message...",
+    "errorMessage": "I'm sorry, I'm having trouble connecting right now. Please try again in a moment or contact us directly through our website."
+  },
+  "events": [
+    {
+      "title": "Family Fun Night",
+      "date": "2025-08-22",
+      "start": "17:30",
+      "end": "19:00",
+      "description": "Bring your family, make new friends, and be part of the fun; join the PTA at Family Fun Night!"
+    },
+    {
+      "title": "CPK Night",
+      "date": "2025-09-16",
+      "description": "Dine in or take out at California Pizza Kitchen Kahala and support our school!  A portion of the proceeds will go to the PTA."
+    },
+    {
+      "title": "Fall Movie Night",
+      "date": "2025-09-19",
+      "start": "18:30",
+      "end": "21:00",
+      "description": "Join us for a fun family movie night! Bring blankets and enjoy a great film together."
+    },
+    {
+      "title": "Jaguar Jog 2026",
+      "date": "2025-10-03",
+      "description": "Help support out annual Jaguar Jog to raise money for the school."
+    },
+    {
+      "title": "Panda Express Night",
+      "date": "2025-10-20",
+      "description": "Dine in or take out at Panda Express and support our school!  A portion of the proceeds will go to the PTA.  Must order through the app"
+    },
+    {
+      "title": "Trunk or Treat",
+      "date": "2025-10-24",
+      "start": "17:30",
+      "description": "Halloween fun for the whole family! Decorate your car trunk and join us for trick-or-treating."
+    },
+    {
+      "title": "Keiki Swap/Craft Fair and Holiday Movie Night",
+      "date": "2025-11-22",
+      "start": "15:30",
+      "end": "17:30",
+      "description": "Craft Fair from 3:30-5:30 PM, then Holiday Movie Night starting at 6:15 PM. Join us for crafts, swapping, and festive fun!"
+    },
+    {
+      "title": "Spring Rummage Sale",
+      "date": "2026-03-07",
+      "description": "Great deals on gently used items! Help support the PTA while finding treasures for your family."
+    },
+    {
+      "title": "Spring Movie Night",
+      "date": "2026-04-10",
+      "start": "17:30",
+      "end": "20:30",
+      "description": "Another fantastic family movie night to enjoy together!"
+    },
+    {
+      "title": "Kanikapila Festival",
+      "date": "2026-04-26",
+      "start": "14:30",
+      "end": "18:30",
+      "description": "Celebrate with music, food, and community at our annual Kanikapila Festival!"
+    }
+  ],
+  "meetings": [
+    {
+      "date": "2025-09-09 18:00:00"
+    },
+    {
+      "date": "2025-09-30 18:00:00"
+    },
+    {
+      "date": "2025-11-18 18:00:00",
+      "info": "In Person"
+    },
+    {
+      "date": "2025-12-09 18:00:00"
+    },
+    {
+      "date": "2026-02-03 18:00:00",
+      "info": "In Person"
+    },
+    {
+      "date": "2026-03-03 18:00:00"
+    },
+    {
+      "date": "2026-04-07 18:00:00"
+    },
+    {
+      "date": "2026-05-05 18:00:00"
+    }
+  ]
 }
