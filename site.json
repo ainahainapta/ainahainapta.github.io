@@ -16,10 +16,10 @@
   },
   "nav": {
     "brandText": "ʻĀina Haina PTA",
-    "aboutLabel": "What We Do",
+    "aboutLabel": "About",
     "eventsLabel": "Events",
     "meetingsLabel": "Meetings",
-    "joinLabel": "Join Us",
+    "joinLabel": "Join",
     "contactLabel": "Contact",
     "donateLabel": "Donate",
     "donatePath": "/pay"
