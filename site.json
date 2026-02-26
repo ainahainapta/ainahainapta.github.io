@@ -129,6 +129,14 @@
     "paymentCategory": "JaguarJog2026",
     "paymentReason": "Jaguar Jog 2026 Donation"
   },
+   "paymentCategories": [
+     { "value": "DONATION", "label": "Donation" }, 
+     { "value": "JAGUARJOG_2026", "label": "Jaguar Jog 2025-2026" },
+     { "value": "PTAFees", "label": "PTA Fees", "autoReason": "PTA Membership Dues" }, 
+     { "value": "CraftFair", "label": "Craft Fair" },
+     { "value": "TShirt", "label": "T Shirts" },
+     { "value": "Misc", "label": "Miscellaneous" }
+  ], 
   "events": [
     {
       "title": "Family Fun Night",
