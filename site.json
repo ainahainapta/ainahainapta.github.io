@@ -36,7 +36,37 @@
         "label": "Jaguar Jog",
         "href": "https://ainahainapta.com/jaguarjog"
       }
-    }
+    },
+    "eyebrow": "A welcoming school community",
+    "paymentButton": { "label": "Payment portal", "href": "/pay" },                                                                            
+    "highlights": [                                                                                                                            
+      {                                                                                                                                        
+        "label": "Jaguar Jog",                                                                                                                 
+        "description": "Visit our biggest fundraiser and follow this year's campaign.",                                                        
+        "href": "/jaguar-jog"                                                                                                                  
+      },                                                                                                                                       
+      {                                                                                                                                        
+        "label": "Next events",                                                                                                                
+        "description": "See the upcoming family nights, movie nights, and campus events.",                                                     
+        "href": "#events",                                                                                                                     
+        "scrollTo": "events"                                                                                                                   
+      },                                                                                                                                       
+      {                                                                                                                                        
+        "label": "Monthly meetings",                                                                                                           
+        "description": "Join by Zoom, review current minutes, and check treasurer reports.",                                                   
+        "href": "#meetings",                                                                                                                   
+        "scrollTo": "meetings"                                                                                                                 
+      }                                                                                                                                        
+    ],                                                                                                                                         
+    "noteTitle": "Why families visit here",                                                                                                    
+    "noteItems": [                                                                                                                             
+      "Find the next PTA event fast",                                                                                                          
+      "Join meetings and catch up on minutes",                                                                                                 
+      "Donate or pay online with Stripe",                                                                                                      
+      "Become part of the PTA in a few clicks"                                                                                                 
+    ],                                                                                                                                         
+    "fundraiserLabel": "Main fundraiser",                                                                                                      
+    "fundraiserText": "Jaguar Jog keeps classroom programs, student experiences, and community events moving."
   },
   "whatWeDo": {
     "title": "What We Do",
