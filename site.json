@@ -107,6 +107,7 @@
     "allScheduledTitle": "All Scheduled Meetings",
     "joinZoomLabel": "Join via Zoom",
     "joinZoomHref": "https://api.ainahainapta.com/meet",
+    "inPersonLabel": "We'll see you in the library!",
     "meetingMinutesTitle": "Meeting Minutes",
     "currentMinutesLabel": "View Current Minutes",
     "currentMinutesHref": "https://docs.google.com/document/d/1SJrg19VcR2oibclDd6m38KeP5hdYgEHwrcjxztWJkdo/edit?usp=sharing",
