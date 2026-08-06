@@ -157,8 +157,9 @@
     "errorMessage": "I'm sorry, I'm having trouble connecting right now. Please try again in a moment or contact us directly through our website."
   },
   "jaguarJog": {
-    "paymentCategory": "JaguarJog2026",
-    "paymentReason": "Jaguar Jog 2026 Donation"
+    "email": "jaguarjog2026.2027@gmail.com",
+    "paymentCategory": "JaguarJog2027",
+    "paymentReason": "Jaguar Jog 2027 Donation"
   },
    "paymentCategories": [
      { "value": "DONATION", "label": "Donation" }, 
