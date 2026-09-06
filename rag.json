@@ -1,0 +1,47 @@
+{
+  "knowledge": [
+    {
+      "topic": "75th Anniversary Celebration",
+      "text": "ʻĀina Haina Elementary School celebrates its 75th anniversary on Sunday, September 20, 2026 from 4:00 to 6:30 PM at the school. Campus beautification runs 4:00-5:00 PM, the cultural program starts at 5:30 PM, and there is food and fellowship throughout. All alumni, families, and community members are welcome and no RSVP is required. The school was founded in Wailupe in 1951. Details and the alumni memory form are at https://ainahainapta.com/75th."
+    },
+    {
+      "topic": "75th Anniversary bentos and t-shirts",
+      "text": "Luau bentos, shoyu chicken bentos, and Spam musubi can be preordered for the 75th Anniversary Celebration at https://ainahainapta.com/75th/bento, and limited edition 75th Anniversary t-shirts in youth and adult sizes at https://ainahainapta.com/75th/tshirt. Use the live order form list for current prices, deadlines, and whether a form is still open -- never quote a price or deadline that is not in that list."
+    },
+    {
+      "topic": "Membership",
+      "text": "PTA membership is $10 per year and any parent, guardian, teacher, or community member can join. Sign up at https://ainahainapta.com/join."
+    },
+    {
+      "topic": "Payments and donations",
+      "text": "Membership dues, donations, and other PTA payments can be made by credit or debit card at https://ainahainapta.com/pay. Donations of any size are welcome and go directly to student programs."
+    },
+    {
+      "topic": "Jaguar Jog",
+      "text": "Jaguar Jog is the PTA's largest fundraiser of the year, a fun run where students collect pledges. The campaign page is at https://ainahainapta.com/jaguar-jog, donations at https://ainahainapta.com/jaguar-jog/donate, and a student's personal page can be looked up by student number at https://ainahainapta.com/jog."
+    },
+    {
+      "topic": "Meetings",
+      "text": "PTA meetings are held monthly at 6:00 PM, either in the ʻĀina Haina Elementary School library or on Zoom at https://api.ainahainapta.com/meet. Everyone is welcome to attend, and the meeting schedule is on the homepage."
+    },
+    {
+      "topic": "Where the money goes",
+      "text": "Money the PTA raises pays for part time teachers, classroom supplies, technology supplies, teacher training, and student programs and experiences."
+    },
+    {
+      "topic": "Volunteering",
+      "text": "The PTA always needs volunteers for events, and families can sign up at https://ainahainapta.com/volunteer or email info@ainahainapta.com to ask what help is needed."
+    }
+  ],
+  "orderForms": [
+    { "key": "bento-75th-2026", "url": "https://ainahainapta.com/75th/bento" },
+    { "key": "tshirt-75th-2026", "url": "https://ainahainapta.com/75th/tshirt" }
+  ],
+  "links": [
+    { "label": "PTA homepage", "url": "https://ainahainapta.com" },
+    { "label": "Make a payment or donation", "url": "https://ainahainapta.com/pay" },
+    { "label": "Join the PTA", "url": "https://ainahainapta.com/join" },
+    { "label": "75th Anniversary Celebration", "url": "https://ainahainapta.com/75th" },
+    { "label": "Jaguar Jog", "url": "https://ainahainapta.com/jaguar-jog" }
+  ]
+}
